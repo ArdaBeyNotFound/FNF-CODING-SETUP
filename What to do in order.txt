@@ -1,0 +1,5 @@
+Install "Haxe"
+And then install "Git"
+Install "VS Code (Visual Studio Code)"
+And then run the commands in the "COMMANDS TO USE" file (In cmd aka. Command Prompt).
+Install "Haxe" and "Lime" extension to "VS Code (Visual Studio Code)".
